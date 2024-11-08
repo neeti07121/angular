@@ -1,0 +1,17 @@
+.main-container{
+    height: 100vh;
+}
+
+.content{
+    padding:20px;
+   
+}
+
+.head{
+    background-color: rebeccapurple;
+}
+
+mat-sidenav{
+    background-color: #ddd;
+    border-radius: 0%;
+}
